@@ -1,0 +1,10 @@
+name: maxar-notebooks-starter-kit
+source: https://github.com/DigitalGlobe/maxar-notebooks-starter-kit
+language:
+  - python
+data_classification:
+  - public
+
+poc:
+  - name: Pandalytics
+    email: pandalytics@maxar.com
