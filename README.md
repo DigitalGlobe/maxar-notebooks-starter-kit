@@ -56,7 +56,7 @@ The following is a recommended way of getting up and running with standard Pytho
 python --version
 ```
 
-If you need to install or update your Python version, download from [python.org](https://www.python.org/downloads/). The Hitch Hiker's Guide to Python has good instructions for various platforms on [how to install python](https://docs.python-guide.org/starting/).
+If you need to install or update your Python version, download from [python.org](https://www.python.org/downloads/). The Hitch Hiker's Guide to Python has good instructions for various platforms on [how to install python](https://docs.python-guide.org/#getting-started-with-python).
 
 #### Pipenv
 
